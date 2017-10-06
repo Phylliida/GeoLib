@@ -61,7 +61,7 @@ function GetPosition(lat, lon)
     
     // this library generates a lot of points for flexibility as needed but you'll probably want to only show the user a few of them
     // For example we can show 1/100 of them
-    if (prng() < 0.01)
+    if (prng() < 0.1)
     {
       // Draw our generated points as a black dot with a radius of 10 pixels
       ctx.beginPath();
