@@ -1,6 +1,8 @@
 # GeoLib
 A simple javascript library for making games like pokemon go
 
+See it live [here](https://phylliida.github.io/geolibtest.html)
+
 Example Usage:
 
 
