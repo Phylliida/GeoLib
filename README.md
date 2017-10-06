@@ -91,5 +91,5 @@ geo = new Geo(true, 500, GetPosition,GetSpeed);
 <body>
 <canvas id="myCanvas"></canvas>
 </body>
-</html?
+</html>
 ```
