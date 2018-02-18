@@ -87,7 +87,7 @@ function GetSpeed(metersPerSecond, metersDiff)
   console.log("meters traveled since the previous time this function was called: " + metersDiff);
 }
 
-geo = new Geo(isHighAccuracy, 500, GetPosition,GetSpeed);
+geo = new Geo(isHighAccuracy, gpsPingRate, GetPosition,GetSpeed);
 </script>
   
 <body>
